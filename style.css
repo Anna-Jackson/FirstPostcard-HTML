@@ -46,8 +46,8 @@ body {
 }
 .postcard-footer {
 	text-align: center;
-	font-size: 25px;
 }
 .postcard-footer button {
 	font-family: "Handlee";
+	font-size: 16px;
 }
